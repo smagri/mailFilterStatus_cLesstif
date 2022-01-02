@@ -1,0 +1,3 @@
+MSPOOL linux/kernel linux/lesstif linux/serial linux/slug
+linux/embedded bn/chat MFILTER linux/kernel linux/lesstif linux/serial
+linux/slug linux/embedded bn/chat

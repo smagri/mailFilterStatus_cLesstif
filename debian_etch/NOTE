@@ -1,0 +1,8 @@
+27-Jul-07
+---------
+
+This build wrks, need to find out why now:
+
+gcc -Iinclude -g mail_status.c -L/usr/local/LessTif/lib -L/usr/X11/lib
+-L/usr/lib -I/usr/local/LessTif/include -I/usr/X11/include
+-I/usr/include/Xm -Iinclude -lXm -lXt -lX11 -DDEBUG -o mail_status
