@@ -1,3 +1,10 @@
+03jan2022
+* created git repository
+
+* This is an  X GUI application using the  opensoruce Lesstif library.
+  It was used  to tell me when  new emails entered the  email client I
+  was using at the time, evolution.
+
 14June2011
 
 Need to port to C++ language and Qt widget library.
